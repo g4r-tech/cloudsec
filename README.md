@@ -79,7 +79,7 @@ Become part of the movement:
 - **Discuss**: [CSA Forum](https://cloudsecurityalliance.org/): Global discussions on evolving cloud threats.
 - **Learn**: [RSA Conference](https://www.rsaconference.com/): Stay updated on CloudSec's cutting-edge developments.
 - **Certify**: [CCSP Certification](https://www.isc2.org/Certifications/CCSP): Solidify your cloud security knowledge.
-- **Engage**: [fwd:cloudsec](https://fwdcloudsec.org/): A community-driven conference exploring the forefront of cloud security.
+- **Engage**: [fwd:cloudsec](https://fwdcloudsec.org/): A community-driven conference exploring the forefront of cloud security. Their [slack](https://cloudsecurityforum.slack.com) has over 3,500 members. This group is for a plethora of AWS (and Cloud) Security debate & info-sharing, not just a place where people can get a quick answer to something (though there are awesome people on here willing to help). Code of Conduct: https://fwdcloudsec.org/conduct.html (edited) 
 
 ---
 
