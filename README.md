@@ -97,7 +97,7 @@ Cloud Security Thought Leadership:
 
 **Panel Discussions & Webinars**:
 - [AWS re:Invent Security Sessions](https://reinvent.awsevents.com/): Amazon's annual cloud conference which includes numerous security talks and panel discussions.
-- [Google Cloud Next '22: Security & Identity](https://cloud.withgoogle.com/next/sf): Google's cloud conference sessions focusing on security and identity.
+- [Google Cloud Next '23: Security & Identity](https://cloud.withgoogle.com/next/sf): Google's cloud conference sessions focusing on security and identity.
 - [Microsoft's Azure Security Webinars](https://azure.microsoft.com/en-us/resources/): Webinars discussing security best practices, trends, and features in Azure.
 
 ---
